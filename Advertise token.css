@@ -1,0 +1,302 @@
+/* this is icons */
+.icons{
+    /* font-size: 30px; */
+    width: 30px;
+    height: 30px;
+    color: #FFFFFF;
+    margin-top: 16px;
+}
+/* this is for dropdown list */
+.dropdown-menu{
+    background-color: #272E3F;
+    color: #FFF;
+}
+.dropdown-item{
+    color: #FFFF;
+}
+.dropdown-item:hover{
+    color:blue;
+}
+/* this is for modal */
+.modal-input{
+    background-color: #272E3F;
+    color:  #999999;
+    border: 1px solid  #FFFFFF;
+
+}
+#gbtn{
+    background-color: #272E3F;
+    color:  #999999;
+    border: 1px solid  #FFFFFF;
+    width: 260px;
+    height: 50px;
+   border-radius: 4px;
+
+}
+#modal-singin{
+    background-color:  #FFC120;
+    color: #FFFFFF;
+
+}
+#modal-singin:hover{
+    background-color:blue;
+ 
+
+}
+.modal-content{
+    background-color: #272E3F;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:#0B1217;
+   
+}
+body{
+    background-color: 
+    #0B1217;
+    color:white;
+}
+h1{
+    font-size: 30px;
+}
+.btn{
+    background-color: 
+    #272E3F;
+   border: 0px;
+    width:80px;
+    height:40px;
+    color: #999999
+    
+}
+.btn:hover{
+    background-color:blue;
+    
+    width:80px;
+    height:40px;
+    color: 
+#999999;
+}
+#lh1{
+    color:#7EE57E;
+}
+#search1{
+    background-color: 
+    #272E3F;
+   
+   border: 0px;
+  
+    height:40px;
+    color: 
+    #999999;
+}
+#search2{
+    background-color: 
+    #272E3F;
+   
+   border: 0px;
+   
+    height:40px;
+    color: 
+    #999999;
+}
+#row2{
+    background-color: #272E3F;
+    color: #999999;
+    border-radius: 20px 20px 0px  0px;
+
+
+}
+
+.list{
+    background-color: 
+    #192D22;
+
+}
+#li1{
+    color:#7EE57E;
+
+}
+#li2{
+
+ color:#FFFFFF;
+}
+.nav-link{
+    color: #FFFFFF;
+}
+.advertise:visited{
+   
+    color:#90EE90;
+}
+#btn3{
+    background-color: 
+    #273F32;
+    color:#FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+#btn4{
+    background-color: 
+    #273F32;
+    color:#FFFFFF;
+    border: 1px solid #FFFFFF;
+    
+}
+#btn3:hover{
+    background-color:blue;
+    color:#FFFF;
+}
+#btn4:hover{
+    background-color:blue;
+    color:#FFFF;
+    
+}
+#card1{
+    background-color:#273F32; 
+    border-radius: 8px;
+}
+.ball{
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+   
+}
+#ball1{
+    background-color: #C4C4C4;
+}
+#ball2{
+    background-color: #FF6B01;
+}
+#ball3{
+    background-color: #C4C4C4;
+}
+/* this is buttonn */
+h6{
+font-size: 14px;
+}
+#form1{
+    background-color: #273F32;
+    color: #FFFFFF;
+}
+#email{
+ background-color: #40464A;
+ color: #999999;
+ border:0px;
+}
+#subscribe{
+    background-color:
+    #FFC120;
+    color: #FFFFFF;
+     border:0px;
+}
+#subscribe:hover{
+    background-color:blue;
+  
+}
+/* this large table */
+#tbtn1{
+    background-color: #90EE90;
+    color:
+    #FFFFFF;
+border: none;
+}
+#tbtn2{
+    background-color:
+    #3CC8C8 ;
+    color:
+    #FFFFFF;
+border: none;
+}
+#tbtn3{
+    background-color:#ADD8E6 ;
+    color:  #FFFFFF;
+border: none;
+}
+
+/* this is form */
+.form-control{
+    background-color: #272E3F;
+    color: #999999;
+    border-color: #272E3F;
+}
+
+#approved{
+    background-color: #FFC120;
+    color: #FFFFFF;
+}
+
+#footer{
+    background-color: 
+    #272E3F;
+}
+ .footermenu>ul ,li{
+    list-style-type: none;
+    margin-left: -33px;
+color: #B6B6B6;
+
+}
+tr:hover{
+    background-color: blue;
+    color:#FFFF;
+    
+}
+a{
+    text-decoration: none;
+    color: #FFFF;
+}
+/* this is icons */
+.icons{
+    /* font-size: 30px; */
+    width: 30px;
+    height: 30px;
+    color: #FFFFFF;
+    margin-top: 16px;
+}
+/* this is for dropdown list */
+.dropdown-menu{
+    background-color: #272E3F;
+    color: #FFF;
+}
+.dropdown-item{
+    color: #FFFF;
+}
+.dropdown-item:hover{
+    color:blue;
+}
+/* this is for modal */
+.modal-input{
+    background-color: #272E3F;
+    color:  #999999;
+    border: 1px solid  #FFFFFF;
+
+}
+#gbtn{
+    background-color: #272E3F;
+    color:  #999999;
+    border: 1px solid  #FFFFFF;
+    width: 260px;
+    height: 50px;
+   border-radius: 4px;
+
+}
+#modal-singin{
+    background-color:  #FFC120;
+    color: #FFFFFF;
+
+}
+#modal-singin:hover{
+    background-color:blue;
+ 
+
+}
+.modal-content{
+    background-color: #272E3F;
+}
+#addbtn:hover{
+    color: #FFF;
+}
+a:hover{
+    text-decoration: none;
+    color:  #FFFFFF;
+}
